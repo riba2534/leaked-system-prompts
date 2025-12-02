@@ -1,9 +1,9 @@
 # leaked-system-prompts
 
-## Description
+## 描述
 
-This repository is a collection of leaked system prompts from widely used LLM based services.
+该仓库收集了来自广泛使用的基于大语言模型（LLM）服务的泄露系统提示词。
 
-1. If you would like to submit a PR, please match the format of other documents. You must include sources that I can verify or reproducible prompts.
-2. If the above process is too cumbersome, you can simply post a link in the Issues section. If there are verifiable sources or reproducible prompts, I will verify them and then proceed with the merge.
-3. This repository is cited in many papers. To prevent repository takedown due to [DMCA](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy) warnings, please do not include sensitive commercial source code.
+1. 如果你想提交 PR，请遵循其他文档的格式。必须包含可供我验证的来源或可复现的提示词。
+2. 如果上述流程过于繁琐，你也可以直接在 Issues 栏发链接。若包含可验证来源或可复现的提示词，我会进行核验后再合并。
+3. 本仓库被许多论文引用。为避免因 [DMCA](https://docs.github.com/en/site-policy/content-removal-policies/dmca-takedown-policy) 警告导致仓库被下架，请不要包含敏感的商业源代码。

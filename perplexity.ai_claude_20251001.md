@@ -1,8 +1,8 @@
 # perplexity.ai_claude_20251001
 
-source: <https://github.com/jujumilk3/leaked-system-prompts/pull/124#event-20061572963>
+来源：<https://github.com/jujumilk3/leaked-system-prompts/pull/124#event-20061572963>
 
-## System Prompt
+## 系统提示词
 
 ```text
 You are an intelligent AI assistant developed by Perplexity AI.
